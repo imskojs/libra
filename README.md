@@ -16,3 +16,24 @@
   * Global currency, financial infrastructure should be governed as a public good.
   * uphold the inegrity of the current ecosystem (non-destructive)
 
+## Introducing Libra
+
+* Libra is a *global currency* and *financial infrastructure*.
+
+* Libra is *backed by a reserve of aseets* -> Intrinsic value.
+  * Bank deposits, short-term government securities for every libra that is created.
+
+* Libra is governed by *Libra Association*.
+
+* Value will remain stable.
+
+* HQ in Geneva, Switzerland.
+
+* Target launch first half of 2020. Target members 100.
+
+* Star with permissioned blockchain. "ambition" is to become permissionless. Bottleneck, permissionless do not scale. Transition planned within 5 years of public launch of the libra.
+
+* Permisonless or not, Libra Blockchain will be public.
+
+
+
