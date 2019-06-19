@@ -75,6 +75,12 @@
 * Coins are only burned when the authorized resellers sell Libra coin to the association in exchange for the underlying assets.
 
 
+## Conclusion (Personal opinion)
 
+* Libra seems to me is a next level stable assets portfolio that is accessible by people with internet, which can be used as an currency in a country with unstable financial/political systems.
+
+* Impact on current crypto market is like a impact of having more stable widely adopted USDT. i.e. positive.
+
+* Initially, all stable assets will increase in value as more demand has been created through Libra.
 
 
