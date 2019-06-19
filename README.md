@@ -48,6 +48,22 @@
 
 * pseudonymous. Libra wants to enhance privacy while considering conerns of regulartory impact.
 
+## The Libra Currency and Reserve
+
+* can convert their digital currency into local fiat currency based on an exchange rate
+
+* the reserve assets are being chosen to minimize volatility. investment-grade credit rating to provide both security and decentralization of the assets.
+
+* Q:: Digital portfolio with intrinsic stable value that can be sent instantly.
+
+* Intereset on the reserve assets will be used to cover the costs of the system -> low trans fee, pay dividiends to Libra Association.
+
+* Rules for allocating interest on the reserve will be set by Libra Association.
+
+* Q:: Libra Association better be a good portfolio investor.
+
+* Users/Devs of Libra do not receive a return from the reserve.
+
 
 
 
