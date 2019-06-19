@@ -35,5 +35,21 @@
 
 * Permisonless or not, Libra Blockchain will be public.
 
+## The Libra Blockchain
+
+* Move lang.
+
+* Byzantine Fault Tolerant(BFT)
+
+* Merkle trees, a data structure used by other blockchains that enables the detection of any changes to existing data.
+
+* the Libra Blockchain is a single data structure that records the history of transactions and states over time.
+  * Q:: this is just a version controlled ledger? Not blockchain?
+
+* pseudonymous. Libra wants to enhance privacy while considering conerns of regulartory impact.
+
+
+
+
 
 
