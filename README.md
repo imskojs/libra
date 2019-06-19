@@ -64,6 +64,15 @@
 
 * Users/Devs of Libra do not receive a return from the reserve.
 
+## The Libra Association
+
+* All decisions are brought to the council, and major policy or technical decisions require the consent of two-thirds of the votes.
+
+* Q:: If all decisions are done through Association, why would non-associates contribute to open source Libra code?
+
+* Coins are only minted when authorized resellers have purchased those coins from the association with fiat assets to fully back the new coins.
+
+* Coins are only burned when the authorized resellers sell Libra coin to the association in exchange for the underlying assets.
 
 
 
